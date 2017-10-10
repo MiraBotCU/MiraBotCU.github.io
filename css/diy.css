@@ -1,0 +1,54 @@
+p#words {
+    text-align: center;
+    font-style: italic;
+}
+
+a#cv {
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+div#cv_row {
+    margin-bottom: 60px;
+}
+
+p.research_summary {
+    text-align: justify;
+    font-size: 0.8em;
+}
+
+img.research_img {
+    max-width: 100%;
+}
+
+h3.researches_h3 {
+    cursor: pointer;
+}
+
+div.fh5co-tab-content {
+    height: auto;
+}
+
+a#publications {
+    text-decoration: none;
+    font-style: italic;
+}
+
+a#publications:hover {
+    color: grey;
+}
+
+p.publications_title {
+    font-size: 0.8em;
+    cursor: default;
+}
+
+div.fh5co-text h2 {
+    cursor: default;
+}
+
+p#cu {
+    margin: 0;
+}
